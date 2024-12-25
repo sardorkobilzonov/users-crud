@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Emily",
+      "lastName": "Johnson",
+      "work": "Engineering",
+      "university": "Wisconsin--Madison"
+    },
+    {
+      "id": "88cd",
+      "name": "Michael",
+      "username": "Williams",
+      "gender": "Male",
+      "email": "Ohio State University"
+    }
+  ]
+}
